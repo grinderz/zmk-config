@@ -23,7 +23,7 @@
 
         default_layer {
             bindings = <
-&kp CAPS  &kp ESCAPE        &kp Q  &kp W                   &kp E      &kp R            &kp T        &kp Y        &kp U           &kp I      &kp O          &kp P     &kp LBKT                &mt RWIN RBKT
+&kp CAPS  &kp ESCAPE        &kp Q  &kp W                   &kp E      &kp R            &kp T        &kp Y        &kp U           &kp I      &kp O          &kp P     &kp LBKT                &kp RBKT
           &kp LEFT_ALT      &kp A  &kp S                   &kp D      &kp F            &kp G        &kp H        &kp J           &kp K      &kp L          &kp SEMI  &mt RIGHT_ALT SQT
           &kp LEFT_CONTROL  &kp Z  &kp X                   &kp C      &kp V            &kp B        &kp N        &kp M           &kp COMMA  &kp DOT        &kp FSLH  &mt RIGHT_CONTROL BSLH
                                    &mt LEFT_GUI LS(GRAVE)  &lt 2 TAB  &mt LSHFT SPACE  &lt 1 RET    &lt 1 GRAVE  &mt RSHFT BSPC  &lt 2 DEL  &kp RIGHT_GUI
