@@ -57,7 +57,7 @@
             >;
         };
 
-        layer_4 {
+        hotkey_layer {
             bindings = <
 &trans  &trans  &kp LG(N0)  &kp LG(MINUS)  &kp LG(EQUAL)  &kp LS(LG(NUMBER_4))  &kp LS(LG(N5))    &trans  &trans  &trans  &trans  &trans  &trans  &trans
         &trans  &trans      &trans         &trans         &trans                &none             &trans  &trans  &trans  &trans  &trans  &trans
